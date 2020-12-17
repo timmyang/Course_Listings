@@ -3,9 +3,8 @@ This repository contains a list of courses taken from school and online.
 
 ## Graduate-level courses
 
-#### Data Sciences
-
-*Fall 2021*
+#### Fall 2021
+*Data Science*
 - Database Design & SQL (DAT 560G)
 - Big Data & Cloud Computing (DAT 560M)
 - Prescriptive Analytics (DAT 550N)
