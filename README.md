@@ -1,5 +1,5 @@
 # Course_Listings
-This repository contains a list of courses taken from school and online.
+This repository contains a list of courses taken throughout the school years.
 
 ## Graduate-level courses
 
