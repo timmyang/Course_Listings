@@ -44,3 +44,5 @@ This repository contains a list of courses taken from school and online.
 *Grade Earned:* A
 
 *Semester:* Fall 2019
+
+*School:* Washington University in St. Louis
