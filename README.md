@@ -1,8 +1,6 @@
 # Course_Listings
 This repository contains a list of courses taken from school and online.
 
-# List of Courses
-
 ## Graduate-level courses
 
 ## Undergraduate-level courses
@@ -20,7 +18,10 @@ This repository contains a list of courses taken from school and online.
 
 ## Online courses and Certificates
 
-- R programming (Coursera)
-- Oracle Database SQL Certified Associate (Oracle)
+#### Coursera
+- R programming (Johns Hopkins University)
+
+#### Oracle
+- Oracle Database SQL Certified Associate (Oracle Database SQL 1Z0-071)
 
 ------------
