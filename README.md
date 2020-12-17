@@ -7,11 +7,11 @@ This repository contains a list of courses taken from school and online.
 
 *Data Science*
 
-- Database Design & SQL (DAT 560G) **SQL**
+- Database Design & SQL (DAT 560G) **- SQL**
 - Big Data & Cloud Computing (DAT 560M)
-- Prescriptive Analytics (DAT 550N) **Excel**
-- Machine Learning Tools for Prediction of Business Outcomes (DAT 550S) **R**
-- Introduction to Python and Data Science (DAT 561) **Python**
+- Prescriptive Analytics (DAT 550N) **- Excel**
+- Machine Learning Tools for Prediction of Business Outcomes (DAT 550S) **- R**
+- Introduction to Python and Data Science (DAT 561) **- Python**
 
 *Customer Analytics Track*
 
