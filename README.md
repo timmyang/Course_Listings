@@ -7,11 +7,11 @@ This repository contains a list of courses taken from school and online.
 
 *Data Science*
 
-- Database Design & SQL (DAT 560G) **- SQL**
+- Database Design & SQL (DAT 560G)
 - Big Data & Cloud Computing (DAT 560M)
-- Prescriptive Analytics (DAT 550N) **- Excel**
-- Machine Learning Tools for Prediction of Business Outcomes (DAT 550S) **- R**
-- Introduction to Python and Data Science (DAT 561) **- Python**
+- Prescriptive Analytics (DAT 550N) 
+- Machine Learning Tools for Prediction of Business Outcomes (DAT 550S)
+- Introduction to Python and Data Science (DAT 561)
 
 *Customer Analytics Track*
 
@@ -21,15 +21,15 @@ This repository contains a list of courses taken from school and online.
 
 *Data Science*
 
-- Data Visualization for Business Insights (DAT 560E) **- Tableau**
-- Text Mining (DAT 562) **- Python**
-- A/B Testing in Business and Social Science (DAT 550W) **- R**
+- Data Visualization for Business Insights (DAT 560E)
+- Text Mining (DAT 562) 
+- A/B Testing in Business and Social Science (DAT 550W)
 
 *Customer Analytics Track*
 
-- Data Analysis for Brand Management (MKT 555A) **- Excel**
+- Data Analysis for Brand Management (MKT 555A)
 - Digital Marketing (MKT 550U)
-- Analytics-Driven Brand Management (MKT 555) **- Excel**
+- Analytics-Driven Brand Management (MKT 555)
 - Customer Analytics (MKT 550T)
 
 #### Fall 2022
