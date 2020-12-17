@@ -7,11 +7,11 @@ This repository contains a list of courses taken from school and online.
 
 *Data Science*
 
-- Database Design & SQL (DAT 560G)
+- Database Design & SQL (DAT 560G) **SQL**
 - Big Data & Cloud Computing (DAT 560M)
-- Prescriptive Analytics (DAT 550N)
-- Machine Learning Tools for Prediction of Business Outcomes (DAT 550S)
-- Introduction to Python and Data Science (DAT 561)
+- Prescriptive Analytics (DAT 550N) **Excel**
+- Machine Learning Tools for Prediction of Business Outcomes (DAT 550S) **R**
+- Introduction to Python and Data Science (DAT 561) **Python**
 
 *Customer Analytics Track*
 
@@ -21,23 +21,39 @@ This repository contains a list of courses taken from school and online.
 
 *Data Science*
 
-- Data Visualization for Business Insights (DAT 560E)
-- Text Mining (DAT 562)
-- A/B Testing in Business and Social Science (DAT 550W)
+- Data Visualization for Business Insights (DAT 560E) **Tableau**
+- Text Mining (DAT 562) **Python**
+- A/B Testing in Business and Social Science (DAT 550W) **R**
 
 *Customer Analytics Track*
 
-- Data Analysis for Brand Management (MKT 555A)
+- Data Analysis for Brand Management (MKT 555A) **Excel**
 - Digital Marketing (MKT 550U)
-- Analytics-Driven Brand Management (MKT 555)
+- Analytics-Driven Brand Management (MKT 555) **Excel**
 - Customer Analytics (MKT 550T)
-- CABI Practicum (MKT 501P)
+
+#### Fall 2022
+
+*Data Science*
+
+- Deep Learning for Business Analytics (DAT 565E)
+
+*Customer Analytics Track*
+
+- Pricing Strategies (MKT 558)
+- Pricing Decision Making & Imploementation (MKT 558B)
+- Marketing Strategy (MKT 557)
 
 ## Undergraduate-level courses
+
+#### Fall 2019 
 
 - Introduction to Computer Science (CSE 131)
 - Introduction to Stata (ECON 494)
 - Economic Analysis with Excel (ECON 4941)
+
+#### Summer 2019
+
 - Introduction to Econometrics (EC 212)
 - Applied Econometrics and Big Data (EC 320)
 - Introduction to Data Science and Machine Learning (ME 314)
