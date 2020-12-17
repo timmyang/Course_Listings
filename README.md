@@ -3,7 +3,14 @@ This repository contains a list of courses taken from school and online.
 
 ## Graduate-level courses
 
-#### Washington University - Olin Business School
+#### Washington University--Olin Business School
+
+- Database Design & SQL (DAT 560G)
+- Big Data and & Cloud Computing (DAT 560M)
+- Prescriptive Analytics (DAT 550N)
+- Machine Learning Tools for Prediction of Business Outcomes (DAT 550S)
+- Introduction to Python and Data Science (DAT 561)
+- 
 
 ## Undergraduate-level courses
 
