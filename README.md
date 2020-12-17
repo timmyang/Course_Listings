@@ -15,14 +15,9 @@ This repository contains a list of courses taken from school and online.
 
 ## Undergraduate-level courses
 
-#### Washington University in St. Louis
-
 - Introduction to Computer Science (CSE 131)
 - Introduction to Stata (ECON 494)
 - Economic Analysis with Excel (ECON 4941)
-
-#### London School of Economics - LSE Summer School 2019
-
 - Introduction to Econometrics (EC 212)
 - Applied Econometrics and Big Data (EC 320)
 - Introduction to Data Science and Machine Learning (ME 314)
