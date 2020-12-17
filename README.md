@@ -61,10 +61,10 @@ This repository contains a list of courses taken from school and online.
 ## Online courses and Certificates
 
 #### Coursera
-- R programming (Johns Hopkins University)
+- R programming
 
 #### Oracle
-- Oracle Database SQL Certified Associate (Oracle Database SQL 1Z0-071)
+- Oracle Database SQL Certified Associate
 
 ------------
 ### Introduction to Computer Science (CSE 131)
