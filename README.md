@@ -3,6 +3,8 @@ This repository contains a list of courses taken from school and online.
 
 ## Graduate-level courses
 
+#### Washington University - Olin Business School
+
 ## Undergraduate-level courses
 
 #### Washington University in St. Louis
