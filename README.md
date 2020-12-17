@@ -22,3 +22,5 @@ London School of Economics and Political Science - Summer School
 
 - R programming (Coursera)
 - Oracle Database SQL Certified Associate (Oracle)
+
+------------
