@@ -21,15 +21,15 @@ This repository contains a list of courses taken from school and online.
 
 *Data Science*
 
-- Data Visualization for Business Insights (DAT 560E) **Tableau**
-- Text Mining (DAT 562) **Python**
-- A/B Testing in Business and Social Science (DAT 550W) **R**
+- Data Visualization for Business Insights (DAT 560E) **- Tableau**
+- Text Mining (DAT 562) **- Python**
+- A/B Testing in Business and Social Science (DAT 550W) **- R**
 
 *Customer Analytics Track*
 
-- Data Analysis for Brand Management (MKT 555A) **Excel**
+- Data Analysis for Brand Management (MKT 555A) **- Excel**
 - Digital Marketing (MKT 550U)
-- Analytics-Driven Brand Management (MKT 555) **Excel**
+- Analytics-Driven Brand Management (MKT 555) **- Excel**
 - Customer Analytics (MKT 550T)
 
 #### Fall 2022
