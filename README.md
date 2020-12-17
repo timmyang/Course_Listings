@@ -43,4 +43,4 @@ This repository contains a list of courses taken from school and online.
 
 *Grade Earned:* A
 
-*Semester:* FALL 2019
+*Semester:* Fall 2019
