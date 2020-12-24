@@ -92,3 +92,6 @@ This repository contains a list of courses taken throughout the school years.
 *School:* Washington University in St. Louis
 
 *Github:*
+
+### Economic Analysis with Excel (ECON 4941)
+*Course description:*
