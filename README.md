@@ -94,4 +94,14 @@ This repository contains a list of courses taken throughout the school years.
 *Github:*
 
 ### Economic Analysis with Excel (ECON 4941)
-*Course description:*
+*Course description:* This mini course offers students the opportunity to master the advance functionality of Microsoft Excel, and to apply those skills to common economic, statistical, and financial problems. Even those familiar with the basic functioning of Excel may be surprised to learn how little of its full capability most users access. Though basic functions will be covered, our focus will be on leveraging Excel's more advanced functions, analytical tools, reporting templates, and linking features to manage multiple workbooks, manipulate data across files, automate tasks, and produce publication quality charts, tables, and graphs. In addition to providing hands-on experience using Excel's advanced capabilities, the course is designed to serve as a bridge between introductory econometrics and practical work with real-world datasets. 
+
+*Language Used:* STATA
+
+*Grade Earned:* A
+
+*Semester:* Fall 2019
+
+*School:* Washington University in St. Louis
+
+*Github:*
