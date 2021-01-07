@@ -62,6 +62,7 @@ This repository contains a list of courses taken throughout the school years.
 
 #### Coursera
 - R programming
+- Python for Everybody
 
 #### Oracle
 - Oracle Database SQL Certified Associate
