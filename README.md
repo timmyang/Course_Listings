@@ -61,7 +61,7 @@ This repository contains a list of courses taken throughout the school years.
 ## Online Courses and Certificates
 
 #### Coursera
-- R programming
+- R Programming
 - Python for Everybody Specialization
 
 #### Oracle
