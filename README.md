@@ -67,7 +67,7 @@ This repository contains a list of courses taken throughout the school years.
 #### Oracle
 - Oracle Database SQL Certified Associate
 
-### K-Data
+#### K-Data
 - Advanced Data Analytics Semi-Professional (ADsP)
 
 ------------
