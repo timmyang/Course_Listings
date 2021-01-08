@@ -68,7 +68,7 @@ This repository contains a list of courses taken throughout the school years.
 - Oracle Database SQL Certified Associate
 
 ### K-Data
-- Advanced Data Analytics Semi Professional (ADsP)
+- Advanced Data Analytics Semi-Professional (ADsP)
 
 ------------
 ### Introduction to Computer Science (CSE 131)
