@@ -1,48 +1,6 @@
 # Course_Listings
 This repository contains a list of courses taken throughout the school years.
 
-## Graduate-level courses
-
-#### Fall 2021
-
-*Data Science*
-
-- Database Design & SQL (DAT 560G)
-- Big Data & Cloud Computing (DAT 560M)
-- Prescriptive Analytics (DAT 550N) 
-- Machine Learning Tools for Prediction of Business Outcomes (DAT 550S)
-- Introduction to Python and Data Science (DAT 561)
-
-*Customer Analytics Track*
-
-- Marketing Research Analytics (MKT 580)
-
-#### Spring 2022
-
-*Data Science*
-
-- Data Visualization for Business Insights (DAT 560E)
-- Text Mining (DAT 562) 
-- A/B Testing in Business and Social Science (DAT 550W)
-
-*Customer Analytics Track*
-
-- Data Analysis for Brand Management (MKT 555A)
-- Digital Marketing (MKT 550U)
-- Analytics-Driven Brand Management (MKT 555)
-- Customer Analytics (MKT 550T)
-
-#### Fall 2022
-
-*Data Science*
-
-- Deep Learning for Business Analytics (DAT 565E)
-
-*Customer Analytics Track*
-
-- Pricing Strategies (MKT 558)
-- Pricing Decision Making & Imploementation (MKT 558B)
-- Marketing Strategy (MKT 557)
 
 ## Undergraduate-level courses
 
