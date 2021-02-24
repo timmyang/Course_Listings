@@ -16,7 +16,7 @@ This repository contains a list of courses taken throughout the school years.
 - Applied Econometrics and Big Data (EC 320)
 - Introduction to Data Science and Machine Learning (ME 314)
 
-## Self-Study
+## Online Courses
 
 #### Coursera
 - R Programming
