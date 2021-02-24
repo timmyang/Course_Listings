@@ -16,13 +16,13 @@ This repository contains a list of courses taken throughout the school years.
 - Applied Econometrics and Big Data (EC 320)
 - Introduction to Data Science and Machine Learning (ME 314)
 
-## Online Courses and Certificates
+## Online Courses
 
 #### Coursera
 - R Programming
 - Python for Everybody Specialization
 
-#### Oracle
+#### Udemy
 - Oracle Database SQL Certified Associate
 
 #### K-Data
